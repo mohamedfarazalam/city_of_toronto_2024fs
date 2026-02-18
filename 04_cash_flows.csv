@@ -1,0 +1,31 @@
+Activity,Item,2024,2023
+Operating,Annual surplus,2016,1250
+Operating,GBE earnings from operations,-176,-178
+Operating,Amortization of tangible capital assets,1793,1776
+Operating,Loss (gain) on disposal of TCAs,-3,15
+Operating,Donated tangible capital assets,-22,-9
+Operating,Accretion expense for asset retirement obligations,5,4
+Operating,Accounts and taxes receivable change,-541,-165
+Operating,Accounts payable and accrued liabilities change,602,-211
+Operating,Deferred revenue change,343,1046
+Operating,Employee benefit liabilities change,120,141
+Operating,Cash provided by operating activities,4122,3714
+Capital,Acquisition of tangible capital assets,-4415,-4366
+Capital,Proceeds on disposal of tangible capital assets,83,131
+Capital,Cash used in capital activities,-4332,-4235
+Financing,Net change in bank indebtedness,-77,25
+Financing,Principal repayments on mortgages payable,-31,-57
+Financing,Issuance of long-term debt and mortgages payable,1134,1139
+Financing,Principal repayments on long-term debt,-599,-510
+Financing,Interest earned on sinking funds,-157,-29
+Financing,Cash provided by financing activities,270,568
+Investing,Proceeds from sale and maturities of investments,15068,10544
+Investing,Purchase of investments,-16284,-10941
+Investing,Investment in GBEs,-50,0
+Investing,Distributions from GBEs,117,130
+Investing,Cash used in investing activities,-1165,-258
+Summary,Net decrease in cash,-1105,-211
+Summary,Cash at beginning of year,4426,4637
+Summary,Cash at end of year,3321,4426
+Summary,Cash paid for interest on LTD,436,421
+Summary,Cash received for interest on investments,811,520

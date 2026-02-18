@@ -1,0 +1,16 @@
+Category,Asset_Type,Cost_2024,Accum_Amort_2024,Net_Book_Value_2024,Net_Book_Value_2023
+General,Land,4595,0,4595,4530
+General,Land improvements,5795,2576,3219,3096
+General,Buildings and building improvements,12700,4681,8019,7833
+General,Machinery and equipment,3543,2341,1202,1137
+General,Motor vehicles,3383,2061,1322,1232
+General,Total general,30016,11659,18357,17828
+Infrastructure,Land,140,0,140,140
+Infrastructure,Buildings and building improvements,1194,337,857,734
+Infrastructure,Machinery and equipment,3440,1783,1657,1714
+Infrastructure,Water and wastewater linear,9715,2997,6718,6216
+Infrastructure,Roads linear,6797,2972,3825,3458
+Infrastructure,Transit,12750,6158,6592,6279
+Infrastructure,Total infrastructure,34036,14247,19789,18541
+Under Construction,Assets under construction,7271,0,7271,6484
+Total,Total tangible capital assets,71323,25906,45417,42853
